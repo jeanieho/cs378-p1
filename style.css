@@ -41,7 +41,7 @@ h1 {
 }
 
 .menu-image {
-    width: 145px;
+    width: 160px;
     height: auto;
     margin-right: 20px;
     border-radius: 10px;
@@ -53,6 +53,10 @@ h1 {
 
 .item-details {
     text-align: left;
+}
+
+.price {
+    padding-top: 20px;
 }
 
 .price-and-button {
