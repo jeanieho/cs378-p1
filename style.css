@@ -4,24 +4,22 @@ body {
     align-items: center;
     text-align: center;
     justify-content: center;
-    margin: 5%;
+    margin: 10%;
 }
 
 h1 {
     font-family: 'Poppins', sans-serif;
-    font-size: 200%;
-    margin-bottom: 5%;
+    font-size: 190%;
+    margin-top: 1%;
+    margin-bottom: 10%;
     color: #808080;
 }
 
 .subheading {
     font-family: 'Satisfy', cursive;
-    font-size: 150%;
-    margin-top: 5%;
+    font-size: 140%;
+    margin-top: 10%;
     color: #c3a187;
-}
-.menu-info {
-    font-family: sans-serif;
 }
 
 .header {
@@ -35,7 +33,6 @@ h1 {
     display: block;
     margin: 0 auto;
 }
-
 
 .menu-item {
     display: flex;
