@@ -9,7 +9,7 @@ body {
 
 h1 {
     font-family: 'Poppins', sans-serif;
-    font-size: 170%;
+    font-size: 160%;
     margin-top: 1%;
     margin-bottom: 10%;
     color: #808080;
@@ -17,7 +17,7 @@ h1 {
 
 .subheading {
     font-family: 'Satisfy', cursive;
-    font-size: 200%;
+    font-size: 190%;
     color: #ac8871;
 }
 
@@ -27,7 +27,7 @@ h1 {
 }
 
 .logo {
-    max-width: 40%;
+    max-width: 50%;
     height: auto;
     display: block;
     margin: 0 auto;
