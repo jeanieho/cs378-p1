@@ -40,10 +40,11 @@ h1 {
 }
 
 .menu-image {
-    width: 125px;
+    width: 127px;
     height: auto;
     margin-right: 20px;
     border-radius: 10px;
+    padding-top: 2px;
 }
 
 .rounded {
