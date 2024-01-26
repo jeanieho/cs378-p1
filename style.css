@@ -4,20 +4,20 @@ body {
     align-items: center;
     text-align: center;
     justify-content: center;
-    margin: 6%;
+    margin: 10%;
 }
 
 h1 {
     font-family: 'Poppins', sans-serif;
-    font-size: 150%;
+    font-size: 140%;
     margin-top: 1%;
-    margin-bottom: 8%;
+    margin-bottom: 10%;
     color: #808080;
 }
 
 .subheading {
     font-family: 'Satisfy', cursive;
-    font-size: 180%;
+    font-size: 160%;
     color: #ac8871;
 }
 
@@ -27,7 +27,7 @@ h1 {
 }
 
 .logo {
-    max-width: 50%;
+    max-width: 100%;
     height: auto;
     display: block;
     margin: 0 auto;
@@ -40,11 +40,11 @@ h1 {
 }
 
 .menu-image {
-    width: 127px;
+    width: 140px;
     height: auto;
     margin-right: 20px;
     border-radius: 10px;
-    padding-top: 5px;
+    padding-top: 2px;
 }
 
 .rounded {
@@ -57,7 +57,7 @@ h1 {
 }
 
 .price {
-    padding-top: 20px;
+    padding-top: 18px;
 }
 
 .title {
